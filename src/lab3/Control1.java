@@ -1,3 +1,5 @@
+package lab3;
+
 public class Control1 {
     public static void main(String[] args) {
         //if
